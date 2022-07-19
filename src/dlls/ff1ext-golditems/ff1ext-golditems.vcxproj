@@ -204,7 +204,7 @@
   <ItemGroup>
     <Text Include="README.md" />
     <Text Include="readme-ff1ext-golditems.txt" />
-    <Text Include="version-number.H" />
+    <Text Include="version-number.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CustomEnemy.cpp" />

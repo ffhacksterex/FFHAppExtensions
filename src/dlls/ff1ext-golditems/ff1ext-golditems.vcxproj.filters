@@ -22,7 +22,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="README.md" />
-    <Text Include="version-number.H">
+    <Text Include="version-number.h">
       <Filter>Header Files</Filter>
     </Text>
     <Text Include="readme-ff1ext-golditems.txt">
